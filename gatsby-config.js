@@ -51,6 +51,8 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    'gatsby-plugin-postcss',
+    'gatsby-plugin-less',
     // {
     //   resolve: `gatsby-plugin-google-analytics`,
     //   options: {
